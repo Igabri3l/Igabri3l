@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Ivan, I'm from Argentina and I'm a Jr
 
 <!--
 **Igabri3l/Igabri3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Skills
+* Node
+* Express
+* sequelize and mongoDb
+* API rest
