@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 * Express
 * sequelize and mongoDb
 * API rest
+
+### Contact
+Email: ivangabriel.2048@gmail.com
