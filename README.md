@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Skills
-* Node
-* Express
-* sequelize and mongoDb
-* API rest
+
+* Java
+* Spring Framework
+* Node - Express
+* Mysql and mongoDB
 
 ### Contact
-Email: ivangabriel.2048@gmail.com
+Email: iachocallaloza@frba.utn.edu.ar
